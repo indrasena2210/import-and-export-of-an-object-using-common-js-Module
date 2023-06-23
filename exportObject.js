@@ -1,5 +1,3 @@
-const Person = {
-  firstName: "John",
-  lastNAme: "Wilson",
-};
+const Person = { firstName: "John", lastName: "Wilson" };
+
 module.exports = Person;
